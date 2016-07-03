@@ -1,9 +1,9 @@
 # DeviceFontSize
 
 [![CI Status](http://img.shields.io/travis/taewankim/DeviceFontSize.svg?style=flat)](https://travis-ci.org/taewankim/DeviceFontSize)
-[![Version](https://img.shields.io/cocoapods/v/TWKit.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
-[![License](https://img.shields.io/cocoapods/l/TWKit.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
-[![Platform](https://img.shields.io/cocoapods/p/TWKit.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
+[![Version](https://img.shields.io/cocoapods/v/DeviceFontSize.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
+[![License](https://img.shields.io/cocoapods/l/DeviceFontSize.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
+[![Platform](https://img.shields.io/cocoapods/p/DeviceFontSize.svg?style=flat)](http://cocoapods.org/pods/DeviceFontSize)
 
 ## Usage
 
