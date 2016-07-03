@@ -38,6 +38,17 @@ pod 'DeviceFontSize/iPad_Mini'
 pod 'DeviceFontSize/iPad_Pro'
 ```
 
+## Interface Builder
+![](images/interfacebuilder.png?raw=true)
+
+
+## Result
+### iPhone 4
+![](images/iphone4s.png?raw=true)
+
+### iPhone 6 Plus
+![](images/iphone6plus.png?raw=true)
+
 ## Author
 
 taewankim, taewan0530@daum.net
