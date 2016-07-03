@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = @version
   s.summary      = 'DeviceFontSize'
   s.homepage     = 'https://github.com/taewan0530/DeviceFontSize'
-  s.license      = 'MIT'
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'taewan' => 'taewan0530@daum.net' }
   s.source       = { :git => 'https://github.com/taewan0530/DeviceFontSize.git', :tag => @version }
   
