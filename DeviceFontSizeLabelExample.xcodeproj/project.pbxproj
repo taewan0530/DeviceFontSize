@@ -1,0 +1,358 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		12AC0E651D293C48002F13B5 /* DeviceFontSizeLabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E5B1D293C48002F13B5 /* DeviceFontSizeLabel+Extension.swift */; };
+		12AC0E661D293C48002F13B5 /* DeviceFontSizeLabel+iPad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E5D1D293C48002F13B5 /* DeviceFontSizeLabel+iPad.swift */; };
+		12AC0E671D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Mini.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E5E1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Mini.swift */; };
+		12AC0E681D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Pro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E5F1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Pro.swift */; };
+		12AC0E691D293C48002F13B5 /* DeviceFontSizeLabel+iPhone4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E611D293C48002F13B5 /* DeviceFontSizeLabel+iPhone4.swift */; };
+		12AC0E6A1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E621D293C48002F13B5 /* DeviceFontSizeLabel+iPhone5.swift */; };
+		12AC0E6B1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E631D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6.swift */; };
+		12AC0E6C1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6plus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AC0E641D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6plus.swift */; };
+		32E49F141D2667D4002F6961 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E49F131D2667D4002F6961 /* AppDelegate.swift */; };
+		32E49F161D2667D4002F6961 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E49F151D2667D4002F6961 /* ViewController.swift */; };
+		32E49F191D2667D4002F6961 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32E49F171D2667D4002F6961 /* Main.storyboard */; };
+		32E49F1B1D2667D4002F6961 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32E49F1A1D2667D4002F6961 /* Assets.xcassets */; };
+		32E49F1E1D2667D4002F6961 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32E49F1C1D2667D4002F6961 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		12AC0E5B1D293C48002F13B5 /* DeviceFontSizeLabel+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+Extension.swift"; sourceTree = "<group>"; };
+		12AC0E5D1D293C48002F13B5 /* DeviceFontSizeLabel+iPad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPad.swift"; sourceTree = "<group>"; };
+		12AC0E5E1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Mini.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPad_Mini.swift"; sourceTree = "<group>"; };
+		12AC0E5F1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Pro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPad_Pro.swift"; sourceTree = "<group>"; };
+		12AC0E611D293C48002F13B5 /* DeviceFontSizeLabel+iPhone4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPhone4.swift"; sourceTree = "<group>"; };
+		12AC0E621D293C48002F13B5 /* DeviceFontSizeLabel+iPhone5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPhone5.swift"; sourceTree = "<group>"; };
+		12AC0E631D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPhone6.swift"; sourceTree = "<group>"; };
+		12AC0E641D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6plus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceFontSizeLabel+iPhone6plus.swift"; sourceTree = "<group>"; };
+		32E49F101D2667D4002F6961 /* DeviceFontSizeLabelExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeviceFontSizeLabelExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		32E49F131D2667D4002F6961 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		32E49F151D2667D4002F6961 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		32E49F181D2667D4002F6961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		32E49F1A1D2667D4002F6961 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		32E49F1D1D2667D4002F6961 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		32E49F1F1D2667D4002F6961 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		32E49F0D1D2667D4002F6961 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		12AC0E591D293C48002F13B5 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				12AC0E5A1D293C48002F13B5 /* Core */,
+				12AC0E5C1D293C48002F13B5 /* iPad */,
+				12AC0E601D293C48002F13B5 /* iPhone */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
+		12AC0E5A1D293C48002F13B5 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				12AC0E5B1D293C48002F13B5 /* DeviceFontSizeLabel+Extension.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		12AC0E5C1D293C48002F13B5 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				12AC0E5D1D293C48002F13B5 /* DeviceFontSizeLabel+iPad.swift */,
+				12AC0E5E1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Mini.swift */,
+				12AC0E5F1D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Pro.swift */,
+			);
+			path = iPad;
+			sourceTree = "<group>";
+		};
+		12AC0E601D293C48002F13B5 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				12AC0E611D293C48002F13B5 /* DeviceFontSizeLabel+iPhone4.swift */,
+				12AC0E621D293C48002F13B5 /* DeviceFontSizeLabel+iPhone5.swift */,
+				12AC0E631D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6.swift */,
+				12AC0E641D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6plus.swift */,
+			);
+			path = iPhone;
+			sourceTree = "<group>";
+		};
+		32E49F071D2667D4002F6961 = {
+			isa = PBXGroup;
+			children = (
+				12AC0E591D293C48002F13B5 /* Pod */,
+				32E49F121D2667D4002F6961 /* DeviceFontSizeLabelExample */,
+				32E49F111D2667D4002F6961 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		32E49F111D2667D4002F6961 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				32E49F101D2667D4002F6961 /* DeviceFontSizeLabelExample.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		32E49F121D2667D4002F6961 /* DeviceFontSizeLabelExample */ = {
+			isa = PBXGroup;
+			children = (
+				32E49F131D2667D4002F6961 /* AppDelegate.swift */,
+				32E49F151D2667D4002F6961 /* ViewController.swift */,
+				32E49F171D2667D4002F6961 /* Main.storyboard */,
+				32E49F1A1D2667D4002F6961 /* Assets.xcassets */,
+				32E49F1C1D2667D4002F6961 /* LaunchScreen.storyboard */,
+				32E49F1F1D2667D4002F6961 /* Info.plist */,
+			);
+			path = DeviceFontSizeLabelExample;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		32E49F0F1D2667D4002F6961 /* DeviceFontSizeLabelExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 32E49F221D2667D4002F6961 /* Build configuration list for PBXNativeTarget "DeviceFontSizeLabelExample" */;
+			buildPhases = (
+				32E49F0C1D2667D4002F6961 /* Sources */,
+				32E49F0D1D2667D4002F6961 /* Frameworks */,
+				32E49F0E1D2667D4002F6961 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DeviceFontSizeLabelExample;
+			productName = DeviceFontSizeLabelExample;
+			productReference = 32E49F101D2667D4002F6961 /* DeviceFontSizeLabelExample.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		32E49F081D2667D4002F6961 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = taewan;
+				TargetAttributes = {
+					32E49F0F1D2667D4002F6961 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 32E49F0B1D2667D4002F6961 /* Build configuration list for PBXProject "DeviceFontSizeLabelExample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 32E49F071D2667D4002F6961;
+			productRefGroup = 32E49F111D2667D4002F6961 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				32E49F0F1D2667D4002F6961 /* DeviceFontSizeLabelExample */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		32E49F0E1D2667D4002F6961 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				32E49F1E1D2667D4002F6961 /* LaunchScreen.storyboard in Resources */,
+				32E49F1B1D2667D4002F6961 /* Assets.xcassets in Resources */,
+				32E49F191D2667D4002F6961 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		32E49F0C1D2667D4002F6961 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				12AC0E691D293C48002F13B5 /* DeviceFontSizeLabel+iPhone4.swift in Sources */,
+				12AC0E681D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Pro.swift in Sources */,
+				12AC0E661D293C48002F13B5 /* DeviceFontSizeLabel+iPad.swift in Sources */,
+				12AC0E6B1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6.swift in Sources */,
+				12AC0E6A1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone5.swift in Sources */,
+				12AC0E671D293C48002F13B5 /* DeviceFontSizeLabel+iPad_Mini.swift in Sources */,
+				32E49F161D2667D4002F6961 /* ViewController.swift in Sources */,
+				32E49F141D2667D4002F6961 /* AppDelegate.swift in Sources */,
+				12AC0E6C1D293C48002F13B5 /* DeviceFontSizeLabel+iPhone6plus.swift in Sources */,
+				12AC0E651D293C48002F13B5 /* DeviceFontSizeLabel+Extension.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		32E49F171D2667D4002F6961 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				32E49F181D2667D4002F6961 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		32E49F1C1D2667D4002F6961 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				32E49F1D1D2667D4002F6961 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		32E49F201D2667D4002F6961 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		32E49F211D2667D4002F6961 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		32E49F231D2667D4002F6961 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = DeviceFontSizeLabelExample/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.taewan.DeviceFontSizeLabelExample;
+				PRODUCT_NAME = DeviceFontSizeLabelExample;
+			};
+			name = Debug;
+		};
+		32E49F241D2667D4002F6961 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = DeviceFontSizeLabelExample/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.taewan.DeviceFontSizeLabelExample;
+				PRODUCT_NAME = DeviceFontSizeLabelExample;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		32E49F0B1D2667D4002F6961 /* Build configuration list for PBXProject "DeviceFontSizeLabelExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				32E49F201D2667D4002F6961 /* Debug */,
+				32E49F211D2667D4002F6961 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		32E49F221D2667D4002F6961 /* Build configuration list for PBXNativeTarget "DeviceFontSizeLabelExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				32E49F231D2667D4002F6961 /* Debug */,
+				32E49F241D2667D4002F6961 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 32E49F081D2667D4002F6961 /* Project object */;
+}
