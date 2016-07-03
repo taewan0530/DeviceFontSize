@@ -10,8 +10,7 @@ import UIKit
 
 
 extension UILabel {
-    @available(*,unavailable)
-    @IBInspectable public var font_4s: CGFloat {
+    @IBInspectable var font_4s: CGFloat {
         get { fatalError("Only available in Interface Builder.") }
         set { updateFontSize(.iPhone_4, fontSize: newValue) }
     }
