@@ -44,7 +44,7 @@ pod 'DeviceFontSize/iPad_Pro'
 
 ## Result
 ### iPhone 4
-![](images/iphone4s.png?raw=true)
+![](images/iphone4.png?raw=true)
 
 ### iPhone 6 Plus
 ![](images/iphone6plus.png?raw=true)
